@@ -1,0 +1,13 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "IIgeley"
+
+[params]
+displayName = "EN"
+isoCode = "en"
+rtl = false
+dateFormat = "2 January 2006"
+logo = "igeley_patch_originalSize.png"
+secondaryLogo = "igeley_colored.png"
+description = "Event page for the IIgeley - a hema tournament hosted by Historisches Fechten Würzburg e.V. in Wertheim, Bavaria"

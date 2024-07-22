@@ -1,0 +1,23 @@
+[[main]]
+none = "none"
+
+[[main]]
+name = "Rules"
+pageRef = "rules"
+identifier = "SNpLuzR1I9"
+weight = 9999
+
+[[main]]
+name = "Team"
+pageRef = "team"
+identifier = "x4a8nOSOMP"
+weight = 9999
+
+[[main]]
+name = "Directions"
+pageRef = "directions"
+identifier = "syU50LDaTM"
+weight = 9999
+
+[[footer]]
+none = "none"
