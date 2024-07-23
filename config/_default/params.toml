@@ -1,14 +1,14 @@
 colorScheme = "slate"
-defaultAppearance = "light"
+defaultAppearance = "dark"
 autoSwitchAppearance = true
 enableSearch = true
 enableCodeCopy = false
 disableImageOptimization = false
 disableTextInHeader = false
-defaultBackgroundImage = "."
+defaultBackgroundImage = "230921_igeley_turnier_2023-9.jpg"
 
 [header]
-layout = "basic"
+layout = "fixed-fill-blur"
 
 [footer]
 showMenu = true
@@ -18,7 +18,7 @@ showAppearanceSwitcher = true
 showScrollToTop = true
 
 [homepage]
-layout = "hero"
+layout = "background"
 showRecent = false
 showRecentItems = 5
 showMoreLink = false
@@ -29,13 +29,13 @@ layoutBackgroundBlur = false
 homepageImage = "230921_igeley_turnier_2023-9.jpg"
 
 [article]
-showDate = true
+showDate = false
 showViews = false
 showLikes = false
 showDateOnlyInArticle = false
 showDateUpdated = false
 showAuthor = true
-showHero = false
+showHero = true
 layoutBackgroundBlur = true
 layoutBackgroundHeaderSpace = true
 showBreadcrumbs = false
@@ -46,13 +46,13 @@ seriesOpened = false
 showHeadingAnchors = true
 showPagination = true
 invertPagination = false
-showReadingTime = true
+showReadingTime = false
 showTableOfContents = false
 showTaxonomies = false
 showAuthorsBadges = false
-showWordCount = true
+showWordCount = false
 showZenMode = false
-heroStyle = ""
+heroStyle = "background"
 
 [list]
 showHero = false
