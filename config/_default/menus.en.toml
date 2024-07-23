@@ -3,19 +3,19 @@ none = "none"
 
 [[main]]
 name = "Rules"
-pageRef = "rules"
+pageRef = "Rules"
 identifier = "SNpLuzR1I9"
 weight = 9999
 
 [[main]]
 name = "Team"
-pageRef = "team"
+pageRef = "Team"
 identifier = "x4a8nOSOMP"
 weight = 9999
 
 [[main]]
 name = "Directions"
-pageRef = "directions"
+pageRef = "Directions"
 identifier = "syU50LDaTM"
 weight = 9999
 
