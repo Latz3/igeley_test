@@ -1,6 +1,12 @@
 +++
 title = 'Team'
 +++
-## Test Team
 
-{{< myshortcode >}}
+## Hauptkampfrichter
+Franz Teichert
+## Kampfrichter
+- Andreas Wittek
+- David Josefs
+- Hannes Spechtenhauser
+- Simon Reinhart
+## Lüsner
