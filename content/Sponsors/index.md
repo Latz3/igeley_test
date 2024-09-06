@@ -3,7 +3,6 @@ title = 'Sponsoren'
 +++
 
 ### Auch dieses Jahr werden wir tatkräftig mit Sachpreisen von Hentzen by Hönle und Histofakt unterstützt.
-![Logo Hentzen by Hoenle](images/hentzen.png)
 <img src="images/hentzen.png" width="200"></img>
 
 ![Logo Histofakt](images/IMG_6763.JPG)
