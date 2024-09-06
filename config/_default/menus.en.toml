@@ -19,5 +19,11 @@ pageRef = "Directions"
 identifier = "syU50LDaTM"
 weight = 9999
 
+[[main]]
+name = "Sponsors"
+pageRef = "Sponsors"
+identifier = "KSGwnV5vLM"
+weight = 9999
+
 [[footer]]
 none = "none"
