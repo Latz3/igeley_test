@@ -8,4 +8,4 @@ title = 'Regelwerk'
 
 tl;dr:<br/>
 Wir haben gewichtete Trefferzonen bei Doppeltreffern.<br/>
-Außerdem sind einhändig geführte Hiebe mit Ziel unter der Hüfte verboten
+Außerdem sind für das Lange Schwert einhändig geführte Hiebe mit Ziel unter der Hüfte verboten
