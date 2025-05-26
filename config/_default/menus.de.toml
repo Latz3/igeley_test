@@ -1,0 +1,29 @@
+[[main]]
+none = "none"
+
+[[main]]
+name = "Regelwerk"
+pageRef = "Regelwerk"
+identifier = "SNpLuzR1I9"
+weight = 9999
+
+# [[main]]
+# name = "Team"
+# pageRef = "Team"
+# identifier = "x4a8nOSOMP"
+# weight = 9999
+
+[[main]]
+name = "Anfahrt"
+pageRef = "Anfahrt"
+identifier = "syU50LDaTM"
+weight = 9999
+
+# [[main]]
+# name = "Sponsors"
+# pageRef = "Sponsors"
+# identifier = "KSGwnV5vLM"
+# weight = 9999
+
+[[footer]]
+none = "none"

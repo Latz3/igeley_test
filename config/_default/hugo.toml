@@ -3,13 +3,12 @@
 # https://blowfish.page/docs/getting-started/
 
 theme = "blowfish" # UNCOMMENT THIS LINE
-# baseURL = "https://latz3.github.io/igeley_test/"
-defaultContentLanguage = "en"
+# baseURL = "https://igeley.de/"
+defaultContentLanguage = "de"
 
 # pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
 
 enableRobotsTXT = true
-paginate = 10
 summaryLength = 0
 
 buildDrafts = false
