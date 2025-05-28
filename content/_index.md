@@ -11,14 +11,14 @@ Zeitplan:</br>
 Samstag<br/>
 Aufbau	08:00:00<br/>
 Hallenöffnung	09:00:00<br/>
-Start Poolrunden	10:00:00<br/>
+Start Poolrunden LS	10:00:00<br/>
 Mittagspause	13:00:00<br/>
-Direkte	14:00:00<br/>
-Siegerehrung	18:00:00<br/>
+Start Direkte LS     14:00:00<br/>
+Siegerehrung LS	18:00:00<br/>
     
 Sonntag<br/>
 Hallenöffnung	09:00:00<br/>
-Start Poolrunden	10:00:00<br/>
+Start Poolrunden Säbel	10:00:00<br/>
 Mittagspause	11:00:00<br/>
-Start Direkte	12:00:00<br/>
-Siegerehrung	15:00:00<br/>
+Start Direkte Säbel	12:00:00<br/>
+Siegerehrung Säbel	15:00:00<br/>
