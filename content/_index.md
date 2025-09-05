@@ -4,7 +4,7 @@ Neu ist dieses Mal der Veranstaltungsort: Zum ersten Mal findet die Würzburger 
 <br/>
 Gefochten wird in den Bewerben Langschwert Offen, Langschwert Damen und Säbel Offen.
 - Datum: 13./14.09.2025
-- Ort: <a href="/directions">Heuchelhof-Halle Würzburg</a>
+- Ort: <a href="/anfahrt">Heuchelhof-Halle Würzburg</a>
 - Beginn: 09:00Uhr am Samstag
 
 Zeitplan:</br>
